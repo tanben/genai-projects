@@ -1,6 +1,6 @@
 # LaunchDarkly Custom Roles and Permissions Query Tool
 
-This Python application demonstrates how to use the Ollama language model and the Neo4j graph database to query and retrieve information about custom roles and permissions in LaunchDarkly.
+This Python application demonstrates how to use the Ollama language model and the Neo4j graph database to query and retrieve information about LaunchDarkly custom roles and permissions.
 
 ## Features
 
