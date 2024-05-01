@@ -2,6 +2,7 @@
 
 This Python application demonstrates how to use the Ollama language model and the Neo4j graph database to query and retrieve information about LaunchDarkly custom roles and permissions.
 
+![](img/ld-ollama.jpg)
 ## Features
 
 - Connects to a Neo4j database using the provided credentials
